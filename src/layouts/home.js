@@ -37,7 +37,6 @@ export default class Home extends React.Component {
                         </div>
                     </div>
                         <li class="widget-49-meeting-item"><span>Expand module is removed</span></li>
-                        
                     <div class="widget-49-meeting-action">
                         <a href="#" class="btn btn-sm btn-flash-border-primary">View All</a>
                     </div>
