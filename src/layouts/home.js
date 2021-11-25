@@ -13,13 +13,13 @@ export default class Home extends React.Component {
         const thumbImage = _.get(post, 'thumb_img_path');
         const thumbImageAlt = _.get(post, 'thumb_img_alt', '');
         const excerpt = _.get(post, 'excerpt');
-        const date_ = Date(_.get(post, 'date'));
+        const date = Date(_.get(post, 'date'));
         const markdownContent = _.get(post, 'markdown_content');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
 
-        const dayInMonth = date_.strftime('%d');        
-        const month = date_.strftime('%m');
+        const dayInMonth = date.strftime('%d');        
+        const month = date.strftime('%m');
         const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
