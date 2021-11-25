@@ -36,7 +36,6 @@ export default class Home extends React.Component {
                             <span class="widget-49-meeting-time">12:00 to 13.30 Hrs</span>
                         </div>
                     </div>
-                    <ol class="widget-49-meeting-points">
                         <li class="widget-49-meeting-item"><span>Expand module is removed</span></li>
                         <li class="widget-49-meeting-item"><span>Data migration is in scope</span></li>
                         <li class="widget-49-meeting-item"><span>Session timeout increase to 30 minutes</span></li>
