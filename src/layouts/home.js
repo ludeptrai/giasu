@@ -31,7 +31,7 @@ export default class Home extends React.Component {
                     </div>
                 </div>
                 <div class="general">
-                <h1>Jane Doe</h1>
+                    <h1>Jane Doe</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a volutpat mauris, at molestie lacus. Nam vestibulum sodales odio ut pulvinar.</p>
                 <span class="more">Mouse over the card for more info</span>
                 </div>
