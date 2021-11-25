@@ -36,31 +36,31 @@ export default class Home extends React.Component {
                     <span class="more">Mouse over the card for more info</span>
                 </div>
             </div>
-            <article key={index} className="post">
-                <header className="post-header">
-                    <h2 className="post-title">
-                        <Link href={postUrl}>{title}</Link>
-                    </h2>
-                    <div className="post-meta">
-                        Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
-                    </div>
-                </header>
-                {thumbImage && (
-                    <Link className="post-thumbnail" href={postUrl}>
-                        <img className="thumbnail" src={withPrefix(thumbImage)} alt={thumbImageAlt} />
-                    </Link>
-                )}
-                {excerpt && (
-                    <div className="post-content">
-                        <p>{excerpt}</p>
-                    </div>
-                )}
-                {hasMoreLink && moreLinkText && (
-                    <p className="read-more">
-                        <Link className="read-more-link" href={postUrl}>{moreLinkText} <span className="icon-arrow-right" aria-hidden="true" /></Link>
-                    </p>
-                )}
-            </article>
+        <article key={index} className="post">
+            <header className="post-header">
+                <h2 className="post-title">
+                    <Link href={postUrl}>{title}</Link>
+                </h2>
+                <div className="post-meta">
+                    Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                </div>
+            </header>
+            {thumbImage && (
+                <Link className="post-thumbnail" href={postUrl}>
+                    <img className="thumbnail" src={withPrefix(thumbImage)} alt={thumbImageAlt} />
+                </Link>
+            )}
+            {excerpt && (
+                <div className="post-content">
+                    <p>{excerpt}</p>
+                </div>
+            )}
+            {hasMoreLink && moreLinkText && (
+                <p className="read-more">
+                    <Link className="read-more-link" href={postUrl}>{moreLinkText} <span className="icon-arrow-right" aria-hidden="true" /></Link>
+                </p>
+            )}
+        </article>
         );
     }
 
