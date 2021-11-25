@@ -14,6 +14,7 @@ export default class Home extends React.Component {
         const thumbImageAlt = _.get(post, 'thumb_img_alt', '');
         const excerpt = _.get(post, 'excerpt');
         const date = _.get(post, 'date');
+        const markdownContent = _.get(page, 'markdown_content');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
 
