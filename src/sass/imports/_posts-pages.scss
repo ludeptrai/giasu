@@ -48,19 +48,6 @@
   top: 50%;
 }
 
-.post-title {
-    // margin-bottom: 0.66667rem;
-
-    a {
-        border: 0;
-        color: inherit;
-
-        &:hover {
-            color: _palette(primary);
-        }
-    }
-}
-
 .post-meta {
     color: _palette(meta);
     font-size: 0.88889rem;
