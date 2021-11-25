@@ -1,8 +1,7 @@
 ---
 title: Toán, Quy Nhơn, Nguyễn Thị Định
 excerpt: >-
-  ☎️Mã số: 40
-  ☎️Mã số: 40
+  ☎️Mã số: 40☎️Mã số: 40
 🔹Môn dạy: Tiếng Trung giao tiếp cho 2 người lớn
 🔹Khu vực: Nguyễn Thị Định, Quy Nhơn
 🔹Số buổi/Tuần: 2-3
