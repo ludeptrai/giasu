@@ -23,7 +23,7 @@ export default class Home extends React.Component {
         const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
-            
+            {date}
         <article key={index} className="">
            <div class="card">
             <div class="card-header no-border">
