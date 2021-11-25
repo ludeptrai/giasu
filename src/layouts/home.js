@@ -21,32 +21,7 @@ export default class Home extends React.Component {
         return (
             
         <article key={index} className="card">
-<aside class="profile-card">
-  <header>
-    <a target="_blank" href="#">
-      <img src="http://lorempixel.com/150/150/people/" class="hoverZoomLink">
-    </a>
-    <h1>
-            John Doe
-          </h1>
-    <h2>
-            Better Visuals
-          </h2>
 
-  </header>
-  <div class="profile-bio">
-    <p>
-      It takes monumental improvement for us to change how we live our lives. Design is the way we access that improvement.
-    </p>
-  </div>
-  <ul class="profile-social-links">
-    <li>
-      <a target="_blank" href="https://www.facebook.com/creativedonut">
-        <i class="fa fa-facebook"></i>
-      </a>
-    </li>
-  </ul>
-</aside>
             {/* <header className="post-header">
                 <h2 className="post-title">
                     <Link href={postUrl}>{title}</Link>
