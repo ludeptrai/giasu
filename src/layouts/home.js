@@ -21,10 +21,10 @@ export default class Home extends React.Component {
         return (
             <div class="card">
                 <div class="additional">
-                <div class="user-card">
-                    <div class="level center">
-                    Level 13
-                    </div>
+                    <div class="user-card">
+                        <div class="level center">
+                            Level 13
+                        </div>
                     <div class="points center">
                     5,312 Points
                     </div>
