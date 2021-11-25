@@ -60,20 +60,6 @@
     margin-bottom: 2.5rem;
 }
 
-.post-content {
-    // max-width: 750px;
-
-    iframe[src*="vimeo.com"],
-    iframe[src*="youtube.com"] {
-        display: block;
-        // margin-bottom: 1.66667rem;
-        // margin-top: 1.66667rem;
-
-        &:first-child {
-            margin-top: 0;
-        }
-    }
-}
 
 .post-feed {
     width:100%;
