@@ -3,7 +3,7 @@
  */
 
 .post {
-    // float: left;
+    float: left;
     height: auto;
     padding: 10px;
     align-items: center;
@@ -80,10 +80,10 @@
 }
 
 .post-feed {
-    // width:100%;
+    width:100%;
   display: grid;
   grid-template-columns: repeat(auto-fill, 50%);
-  grid-auto-rows: auto;
+  grid-auto-rows: 10px;
   
     .post {
         // border: 1px solid #3bc9db;
