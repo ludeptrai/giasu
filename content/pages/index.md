@@ -1,5 +1,5 @@
 ---
-title: Tin tìm gia sư mới nhất
+title: Tin tìm gia sư tại Quy Nhơn
 has_more_link: false
 more_link_text: Keep reading
 seo:
