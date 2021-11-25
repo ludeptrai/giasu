@@ -82,6 +82,7 @@
 .post-feed {
     width:100%;
   display: grid;
+  position: absolute;
   grid-template-columns: repeat(auto-fill, 50%);
   grid-auto-rows: 10px;
   
