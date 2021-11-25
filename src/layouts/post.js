@@ -18,7 +18,7 @@ export default class Post extends React.Component {
         const title = _.get(page, 'title');
         const subtitle = _.get(page, 'subtitle');
         const headerImage = _.get(page, 'content_img_path') ? _.get(page, 'content_img_path') : _.get(header, 'background_img');
-        const date = _.get(page, 'date');
+        const date = _.moment(page, 'date');
         const markdownContent = _.get(page, 'markdown_content');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
