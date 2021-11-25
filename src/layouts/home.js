@@ -45,7 +45,7 @@ export default class Home extends React.Component {
                         <a href="#" class="btn btn-sm btn-flash-border-primary">View All</a>
                     </div>
                 </div>
-            </div>
+            </div></div>
             {/* <header className="post-header">
                 <h2 className="post-title">
                     <Link href={postUrl}>{title}</Link>
