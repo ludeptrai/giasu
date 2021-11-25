@@ -25,9 +25,9 @@ export default class Home extends React.Component {
                         <div class="level center">
                             Level 13
                         </div>
-                    <div class="points center">
-                        5,312 Points
-                    </div>
+                        <div class="points center">
+                            5,312 Points
+                        </div>
                 </div>
                 </div>
                 <div class="general">
