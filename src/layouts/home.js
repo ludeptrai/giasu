@@ -21,7 +21,7 @@ export default class Home extends React.Component {
         return (
             
         <article key={index} className="card">
-        <aside class="profile-card">    
+            <aside class="profile-card">    
     <a target="_blank" href="#"><img src="http://lorempixel.com/150/150/people/" class="hoverZoomLink"></a>
     <h1>John Doe</h1>
     <h2>Better Visuals</h2>
