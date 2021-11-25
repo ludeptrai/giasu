@@ -21,23 +21,35 @@ export default class Home extends React.Component {
         return (
             
         <article key={index} className="card">
-                <div class="card">
-    <div class="additional">
-      <div class="user-card">
-        <div class="level center">
-          Level 13
-        </div>
-        <div class="points center">
-          5,312 Points
-        </div>
-      </div>
-    </div>
-    <div class="general">
-      <h1>Jane Doe</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a volutpat mauris, at molestie lacus. Nam vestibulum sodales odio ut pulvinar.</p>
-      <span class="more">Mouse over the card for more info</span>
-    </div>
-    </div>
+<aside class="profile-card">
+  <header>
+    <!-- here’s the avatar -->
+    <a target="_blank" href="#">
+      <img src="http://lorempixel.com/150/150/people/" class="hoverZoomLink">
+    </a>
+    <h1>
+            John Doe
+          </h1>
+    <h2>
+            Better Visuals
+          </h2>
+
+  </header>
+  <div class="profile-bio">
+    <p>
+      It takes monumental improvement for us to change how we live our lives. Design is the way we access that improvement.
+    </p>
+  </div>
+
+  <!-- some social links to show off -->
+  <ul class="profile-social-links">
+    <li>
+      <a target="_blank" href="https://www.facebook.com/creativedonut">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+  </ul>
+</aside>
             {/* <header className="post-header">
                 <h2 className="post-title">
                     <Link href={postUrl}>{title}</Link>
