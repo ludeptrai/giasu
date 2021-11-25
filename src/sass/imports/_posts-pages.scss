@@ -346,10 +346,10 @@
         // border-bottom: 1px dashed _palette(border);
         // padding-bottom: 0.83333em;
         // grid-row-end: span 20;
-        &:last-child {
-            border: 0;
-            padding-bottom: 0;
-        }
+        // &:last-child {
+        //     border: 0;
+        //     padding-bottom: 0;
+        // }
     }
 
     .post-header,
