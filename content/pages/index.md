@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Tin tìm gia sư mới nhất
 has_more_link: false
 more_link_text: Keep reading
 seo:
