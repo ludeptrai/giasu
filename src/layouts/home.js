@@ -19,7 +19,7 @@ export default class Home extends React.Component {
         const formattedDate = moment(date).strftime('%B %d, %Y');
 
         const dayInMonth = date.strftime('%d');        
-        const month = moment(date).strftime('%m');
+        const month = date.strftime('%m');
         const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
