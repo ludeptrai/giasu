@@ -23,7 +23,6 @@ export default class Home extends React.Component {
         <article key={index} className="card">
 <aside class="profile-card">
   <header>
-    <!-- here’s the avatar -->
     <a target="_blank" href="#">
       <img src="http://lorempixel.com/150/150/people/" class="hoverZoomLink">
     </a>
