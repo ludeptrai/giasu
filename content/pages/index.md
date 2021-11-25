@@ -4,7 +4,9 @@ has_more_link: false
 more_link_text: Keep reading
 seo:
   title: Tin tìm gia sư tại Quy Nhơn mới nhất
-  description: The preview of the Fjord theme
+  description: >-
+    Tổng hợp tất cả các tin tìm gia sư mới nhất tại Quy Nhơn cho gia sư và phụ
+    huynh học sinh
   extra:
     - name: 'og:type'
       value: website
