@@ -33,7 +33,7 @@ export default class Home extends React.Component {
                     <div class="widget-49-title-wrapper">
                         <div class="widget-49-date-primary">
                             <span class="widget-49-date-day">{dayInMonth}</span>
-                            <span class="widget-49-date-month">Thasng {month}</span>
+                            <span class="widget-49-date-month">Tháng {month}</span>
                         </div>
                         <div class="widget-49-meeting-info">
                             <span class="widget-49-pro-title">PRO-08235 DeskOpe. Website</span>
