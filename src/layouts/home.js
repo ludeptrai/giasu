@@ -20,7 +20,7 @@ export default class Home extends React.Component {
 
         return (
         <article key={index} className="card">
-           <div class="card card-margin">
+           <div class="card">
             <div class="card-header no-border">
                 <h5 class="card-title">MOM</h5>
             </div>
