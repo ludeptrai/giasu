@@ -28,7 +28,7 @@ export default class Home extends React.Component {
     </a>
     <h1>John Doe</h1>
     <h2>Better Visuals</h2>
-</header>
+    </header>
   <div class="profile-bio">
     <p>
       It takes monumental improvement for us to change how we live our lives. Design is the way we access that improvement.
