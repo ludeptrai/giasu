@@ -28,7 +28,7 @@ export default class Home extends React.Component {
                         <div class="points center">
                             5,312 Points
                         </div>
-                </div>
+                    </div>
                 </div>
                 <div class="general">
                 <h1>Jane Doe</h1>
