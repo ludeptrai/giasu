@@ -80,7 +80,10 @@
 }
 
 .post-feed {
-    display: block;
+    display: grid;
+ grid-template-columns: repeat(auto-fill, var(--card_width));
+ grid-auto-rows: var(--row_increment);
+ justify-content: center;
     .post {
         border-bottom: 1px dashed _palette(border);
         padding-bottom: 0.83333em;
