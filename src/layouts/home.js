@@ -16,9 +16,10 @@ export default class Home extends React.Component {
         const date = _.get(post, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
-        const markdownContent = _.get(page, 'markdown_content');
-        const dayInMonth = moment(date).strftime('%d');
         
+        const markdownContent = _.get(page, 'markdown_content');
+
+        const dayInMonth = moment(date).strftime('%d');        
         const month = moment(date).strftime('%m');
         const postUrl = getPageUrl(post, { withPrefix: true });
 
