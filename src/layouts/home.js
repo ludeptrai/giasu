@@ -37,7 +37,6 @@ export default class Home extends React.Component {
                 </div>
             </div>
         <article key={index} className="post">
-            
             <header className="post-header">
                 <h2 className="post-title">
                     <Link href={postUrl}>{title}</Link>
