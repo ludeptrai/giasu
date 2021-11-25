@@ -36,7 +36,7 @@ export default class Home extends React.Component {
                     <span class="more">Mouse over the card for more info</span>
                 </div>
             </div>
-        </
+        </div>
         <article key={index} className="post">
             
             <header className="post-header">
