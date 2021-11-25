@@ -20,7 +20,7 @@ export default class Home extends React.Component {
 
         return (
             
-        <article key={index} className="post card">
+        <article key={index} className="card">
                 <div class="card">
     <div class="additional">
       <div class="user-card">
