@@ -36,7 +36,7 @@ export default class Home extends React.Component {
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a volutpat mauris, at molestie lacus. Nam vestibulum sodales odio ut pulvinar.</p>
                     <span class="more">Mouse over the card for more info</span>
                 </div>
-            <header className="post-header">
+            {/* <header className="post-header">
                 <h2 className="post-title">
                     <Link href={postUrl}>{title}</Link>
                 </h2>
@@ -58,7 +58,7 @@ export default class Home extends React.Component {
                 <p className="read-more">
                     <Link className="read-more-link" href={postUrl}>{moreLinkText} <span className="icon-arrow-right" aria-hidden="true" /></Link>
                 </p>
-            )}
+            )} */}
         </article>
         );
     }
