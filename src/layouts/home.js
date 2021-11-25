@@ -40,8 +40,6 @@ export default class Home extends React.Component {
       It takes monumental improvement for us to change how we live our lives. Design is the way we access that improvement.
     </p>
   </div>
-
-  <!-- some social links to show off -->
   <ul class="profile-social-links">
     <li>
       <a target="_blank" href="https://www.facebook.com/creativedonut">
