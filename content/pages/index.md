@@ -3,7 +3,7 @@ title: Home
 has_more_link: false
 more_link_text: Keep reading
 seo:
-  title: Stackbit Fjord Theme
+  title: Tin tìm gia sư tại Quy Nhơn mới nhất
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'
