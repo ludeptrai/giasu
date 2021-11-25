@@ -24,6 +24,7 @@ export default class Home extends React.Component {
     <a target="_blank" href="#"><img src="http://lorempixel.com/150/150/people/" class="hoverZoomLink"></img></a>
     <h1>John Doe</h1>
     <h2>Better Visuals</h2>
+    </header>
   <div class="profile-bio">
     <p>
       It takes monumental improvement for us to change how we live our lives. Design is the way we access that improvement.
