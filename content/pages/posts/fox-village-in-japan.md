@@ -1,5 +1,5 @@
 ---
-title: Toán
+title: Toán, Quy Nhơn, Nguyễn Thị Định
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
