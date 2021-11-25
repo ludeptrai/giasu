@@ -36,7 +36,6 @@ export default class Home extends React.Component {
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a volutpat mauris, at molestie lacus. Nam vestibulum sodales odio ut pulvinar.</p>
                     <span class="more">Mouse over the card for more info</span>
                 </div>
-            </div>
             <header className="post-header">
                 <h2 className="post-title">
                     <Link href={postUrl}>{title}</Link>
