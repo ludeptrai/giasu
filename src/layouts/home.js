@@ -32,7 +32,7 @@ export default class Home extends React.Component {
         <article key={index} className="">
            <div class="card">
             <div class="card-header no-border">
-                htmlToReact
+                {htmlToReact()}
                 {/* <h5 class="card-title">{htmlToReact(title)}</h5> */}
             </div>
             <div class="card-body pt-0">
