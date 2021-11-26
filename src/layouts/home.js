@@ -32,7 +32,7 @@ export default class Home extends React.Component {
             status_color = '#82BF56';
         } else {
             status_text = 'ĐÃ GIAO';
-            status_color = '#82BF56';
+            status_color = '#E74C3C';
         }
 
         return (
