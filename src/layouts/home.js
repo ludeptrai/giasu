@@ -28,7 +28,7 @@ export default class Home extends React.Component {
             text += '<p class="tag">' + title[tag] + '</p>'
         };
         if (status = 'True') {
-            status_text = "Chưa giao';
+            status_text = 'Chưa giao';
             status_color = '#82BF56'
         }
 
