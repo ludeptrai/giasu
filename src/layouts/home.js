@@ -34,7 +34,7 @@ export default class Home extends React.Component {
             var status_text = 'ĐÃ GIAO';
             var status_color = '#E74C3C';
         }
-        status_button = '<a href={url} class="action-button" style="background-color: '++'">'+status_text+'</a>'
+        status_button = '<a href={url} class="action-button" style="background-color: '+status_color+'">'+status_text+'</a>'
         return (
             
         <article key={index} className="">
