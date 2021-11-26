@@ -41,7 +41,7 @@ export default class Home extends React.Component {
                             <span class="widget-49-meeting-time">12:00 to 13.30 Hrs</span>
                         </div>
                     </div>
-                        <p class="">{markdownContent}</p>
+                        <p class="widget-49-meeting-item"><span>{markdownContent}</span></p>
                     <div class="widget-49-meeting-action">
                         <a href="#" class="btn btn-sm btn-flash-border-primary">View All</a>
                     </div>
