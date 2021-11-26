@@ -38,7 +38,7 @@ export default class Home extends React.Component {
         return (
             
         <article key={index} className="">
-           <div class="card">{status}
+           <div class="card">{status_text}
             <div class="card-header no-border">
                 {htmlToReact(text)}
                 {/* <h5 class="card-title">{htmlToReact(title)}</h5> */}
