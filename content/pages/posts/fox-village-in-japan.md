@@ -50,9 +50,12 @@ layout: post
 
 🔹Khu vực: Nguyễn Thị Định, Quy Nhơn
 
-🔹Số buổi/Tuần: 2-3\
-🔹Lịch học: thoả thuận\
-🔹Học phí:  thoả thuận\
+🔹Số buổi/Tuần: 2-3
+
+🔹Lịch học: thoả thuận
+
+🔹Học phí:  thoả thuận
+
 Yêu cầu: Gia sư đã tốt nghiệp đại học sư phạm hoặc sv năm cuối, sinh viên đúng chuyên ngành , có kinh nghiệm, nhiệt tình, tâm lý....\
 Phí 25% trả sau 2 buổi dạy\
 Inbox đầy đủ thông tin cá nhân trực tiếp vào page. Phù hợp tt sẽ liên hệ\
