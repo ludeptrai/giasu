@@ -2,7 +2,7 @@
 title: Toán, Quy Nhơn, Nguyễn Thị Định
 posted_by: 'Gia sư Bình Định'
 date: '2021-11-25 08:04:36'
-url: 'https://www.facebook.com/GiasuBinhDinhquality/posts/400596201765918?__cft__[0]=AZWVOgMvgQvo-YJXPJclBrjMjX1lBwIxFMiLUKPHgrN9RccX33xuT-7W0ZCe45eerN0EqEynVp1640Mst5zc7qBpT2Hdy6-slP7PAuGksNHx9wqdEdD-Qh_s4m003vfF5K9e0q-YYfJxR2OLUGqf2P2xfLNtZeVEwhv7xR0QXn9G_ppg3hA3Xa9L-c6FtnR0sNdQtmwwwAsqIAHcsPd7hvq6&__tn__=%2CO%2CP-y-R'
+url: 'https://www.facebook.com/GiasuBinhDinhquality/posts/400596201765918'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
