@@ -41,10 +41,10 @@ export default class Home extends React.Component {
             
         <article key={index} className="">
            <div class="card">
-            {/* <div class="card-header no-border">
+            <div class="card-header no-border">
                 
                 {/* <h5 class="card-title">{htmlToReact(title)}</h5> */}
-            </div> */}
+            </div>
             <div class="card-body pt-0">
                 <div class="widget-49">
                     <div class="widget-49-title-wrapper">
