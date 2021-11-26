@@ -6,6 +6,7 @@ import { Layout } from '../components/index';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { getPageUrl, Link, withPrefix } from '../utils';
+import { htmlToReact, markdownify } from '../utils';
 
 export default class Home extends React.Component {
     renderPost(post, index, hasMoreLink, moreLinkText) {
