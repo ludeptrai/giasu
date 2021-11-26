@@ -44,9 +44,9 @@ seo:
       relativeUrl: true
 layout: post
 ---
-☎️Mã số: 40
+"☎️Mã số: 40\n
 
-🔹Môn dạy: Tiếng Trung giao tiếp cho 2 người lớn<br>🔹Khu vực: Nguyễn Thị Định, Quy Nhơn<br>🔹Số buổi/Tuần: 2-3<br>🔹Lịch học: thoả thuận<br>🔹Học phí:  thoả thuận<br>Yêu cầu: Gia sư đã tốt nghiệp đại học sư phạm hoặc sv năm cuối, sinh viên đúng chuyên ngành , có kinh nghiệm, nhiệt tình, tâm lý....<br>Phí 25% trả sau 2 buổi dạy<br>Inbox đầy đủ thông tin cá nhân trực tiếp vào page. Phù hợp tt sẽ liên hệ<br>*Chú ý: Đọc kỹ thông tin và yêu cầu lớp dạy để tránh trường hợp nhận rồi hủy. Gia sư nhớ check địa chỉ trước khi nhận tránh bỏ cua vì xa gần
+🔹Môn dạy: Tiếng Trung giao tiếp cho 2 người lớn<br>🔹Khu vực: Nguyễn Thị Định, Quy Nhơn<br>🔹Số buổi/Tuần: 2-3<br>🔹Lịch học: thoả thuận<br>🔹Học phí:  thoả thuận<br>Yêu cầu: Gia sư đã tốt nghiệp đại học sư phạm hoặc sv năm cuối, sinh viên đúng chuyên ngành , có kinh nghiệm, nhiệt tình, tâm lý....<br>Phí 25% trả sau 2 buổi dạy<br>Inbox đầy đủ thông tin cá nhân trực tiếp vào page. Phù hợp tt sẽ liên hệ<br>*Chú ý: Đọc kỹ thông tin và yêu cầu lớp dạy để tránh trường hợp nhận rồi hủy. Gia sư nhớ check địa chỉ trước khi nhận tránh bỏ cua vì xa gần"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus sit. Massa placerat duis ultricies lacus sed. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Pulvinar neque laoreet suspendisse interdum consectetur libero. Lacus viverra vitae congue eu consequat ac felis donec et. Imperdiet dui accumsan sit amet nulla facilisi. Faucibus turpis in eu mi bibendum neque. Magna etiam tempor orci eu. Cursus turpis massa tincidunt dui ut ornare. A condimentum vitae sapien pellentesque habitant. Ut porttitor leo a diam sollicitudin tempor id eu.
 
