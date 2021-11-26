@@ -50,7 +50,7 @@ layout: post
 
 🔹Khu vực: Nguyễn Thị Định, Quy Nhơn
 
-🔹Số buổi/Tuần: 2-3
+🔹Số buổi/Tuần: 2-3.
 
 🔹Lịch học: thoả thuận
 
