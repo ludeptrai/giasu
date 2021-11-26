@@ -162,6 +162,11 @@
 }
 
 @media only screen and (min-width: 601px) {
+    .post-feed {
+    width:100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 50%);
+  grid-auto-rows: minmax(10px, auto);
     // .post {
     //     margin-bottom: 3.33333em;
     // }
