@@ -51,7 +51,7 @@ export default class Home extends React.Component {
                             <span class="widget-49-date-month">Tháng {month}</span>
                         </div>
                         <div class="widget-49-meeting-info">
-                            <div class="card-header">
+                            <div class="">
                             {htmlToReact(text)}</div>
                             <span class="widget-49-pro-title"><b>{postedBy}</b></span>
                             <span class="widget-49-meeting-time">{date}</span>
