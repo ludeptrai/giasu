@@ -39,7 +39,7 @@ export default class Home extends React.Component {
                         </div>
                         <div class="widget-49-meeting-info">
                             <span class="widget-49-pro-title"><b>{postedBy}</b></span>
-                            <span class="widget-49-meeting-time">12:00 to 13.30 Hrs</span>
+                            <span class="widget-49-meeting-time">{date}</span>
                         </div>
                     </div>
                         <p class="widget-49-meeting-item"><span>{htmlToReact(markdownContent)}</span></p>
