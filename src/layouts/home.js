@@ -29,6 +29,9 @@ export default class Home extends React.Component {
         <article key={index} className="">
            <div class="card">
             <div class="card-header no-border">
+                for (const property in object) {
+  console.log(`${property}: ${object[property]}`);
+}
                 <h5 class="card-title">{title}</h5>
             </div>
             <div class="card-body pt-0">
