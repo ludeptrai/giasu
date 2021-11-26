@@ -24,7 +24,7 @@ export default class Home extends React.Component {
         const month = moment(date).strftime('%m');
         const postUrl = getPageUrl(post, { withPrefix: true });
         for (const tag in title) {
-        console.log(`${property}: ${object[property]}`);
+            
         }
         return (
             
