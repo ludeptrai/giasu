@@ -23,9 +23,9 @@ export default class Home extends React.Component {
         const dayInMonth = moment(date).strftime('%d');        
         const month = moment(date).strftime('%m');
         const postUrl = getPageUrl(post, { withPrefix: true });
-for (const property in object) {
-  console.log(`${property}: ${object[property]}`);
-}
+        for (const property in object) {
+        console.log(`${property}: ${object[property]}`);
+        }
         return (
             
         <article key={index} className="">
