@@ -25,7 +25,7 @@ export default class Home extends React.Component {
         const postUrl = getPageUrl(post, { withPrefix: true });
         var text = new String;
         for (const tag in title) {
-            text += '<p class="action-button">' + title[tag] + '</p>'
+            text += '<p class="tag">' + title[tag] + '</p>'
         };
         return (
             
