@@ -13,7 +13,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Tiìm gia sư dạy kèm tại Bình Định
+      value: Tin mới nhất tìm gia sư dạy kèm tại Bình Định
       keyName: property
     - name: 'og:description'
       value: >-
