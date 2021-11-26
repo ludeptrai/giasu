@@ -27,8 +27,10 @@ export default class Home extends React.Component {
         for (const tag in title) {
             text += '<p class="tag">' + title[tag] + '</p>'
         };
+        if (status < 18) {
+        greeting = "Good day";
+        }
 
-        
         return (
             
         <article key={index} className="">
