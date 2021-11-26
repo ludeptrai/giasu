@@ -27,7 +27,7 @@ export default class Home extends React.Component {
             text += '<p class="tag">' + title[tag] + '</p>'
         };
         const status = _.get(post, 'status');
-        if (status == true) {
+        if (status == false) {
             var status_text = 'CHƯA GIAO';
             var status_color = '#82BF56';
         } else {
@@ -35,7 +35,7 @@ export default class Home extends React.Component {
             var status_color = '#E74C3C';
         }
         var status_button = '<a class="action-button" style="border:unset; background-color: '+status_color+'">'+status_text+'</a>'
-        var poster = '<a href='+{posterUrl}+' class="widget-49-pro-title"><b>'+{postedBy}+'</b></a>'
+        var poster = '<a href="'+{posterUrl}+'" class="widget-49-pro-title"><b>'+{postedBy}+'</b></a>'
         return (
             
         <article key={index} className="">
