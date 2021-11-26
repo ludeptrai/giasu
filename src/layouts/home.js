@@ -11,9 +11,7 @@ import { htmlToReact, markdownify } from '../utils';
 export default class Home extends React.Component {
     renderPost(post, index, hasMoreLink, moreLinkText) {
         const title = _.get(post, 'title').split("|");
-        const thumbImage = _.get(post, 'thumb_img_path');
-        
-        const thumbImageAlt = _.get(post, 'thumb_img_alt', '');
+        const posterUrl = _.get(post, 'poster_url');
         const postedBy = _.get(post, 'posted_by');
         const url = _.get(post, 'url');
         const date = _.get(post, 'date');
@@ -37,10 +35,11 @@ export default class Home extends React.Component {
             var status_color = '#E74C3C';
         }
         var status_button = '<a class="action-button" style="border:unset; background-color: '+status_color+'">'+status_text+'</a>'
+        var poster = '<a href='+{posterUrl}+' class="widget-49-pro-title"><b>'+{postedBy}+'</b></a>'
         return (
             
         <article key={index} className="">
-           <div class="card">test new commit
+           <div class="card">
             {/* <div class="card-header no-border">
             </div> */}
             <div class="card-body pt-0">
@@ -51,8 +50,7 @@ export default class Home extends React.Component {
                             <span class="widget-49-date-month">Tháng {month}</span>
                         </div>
                         <div class="widget-49-meeting-info">
-                            
-                            <span class="widget-49-pro-title"><b>{postedBy}</b></span>
+                            {htmlToReact(poster)}
                             <span class="widget-49-meeting-time">{date}</span>
                             <div>{htmlToReact(text)}</div>
                         </div>
