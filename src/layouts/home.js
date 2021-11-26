@@ -30,6 +30,8 @@ export default class Home extends React.Component {
         if (status = 'True') {
             status_text = 'Chưa giao';
             status_color = '#82BF56';
+        } else {
+        //  block of code to be executed if the condition is false
         }
 
         return (
