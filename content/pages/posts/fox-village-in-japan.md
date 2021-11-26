@@ -32,7 +32,7 @@ seo:
         Apparently, Japan is covered in magical and irresistibly cute animal
         sanctuaries.
     - name: 'twitter:image'
-      value: images/10.jpg
+      value: images/page_banner.jpg
       relativeUrl: true
 layout: post
 ---
