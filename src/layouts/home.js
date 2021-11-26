@@ -28,7 +28,7 @@ export default class Home extends React.Component {
             text += '<p class="tag">' + title[tag] + '</p>'
         };
         if (status = 'True') {
-            greeting = "Good day";
+            status_text = "Good day";
         }
 
         return (
