@@ -20,7 +20,7 @@ seo:
         
       keyName: property
     - name: 'og:image'
-      value: images/10.jpg
+      value: images/page_banner.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
