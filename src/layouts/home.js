@@ -49,7 +49,7 @@ export default class Home extends React.Component {
                     </div>
                         <p class="widget-49-meeting-item"><span>{htmlToReact(markdownContent)}</span></p>
                     <div class="widget-49-meeting-action">
-                        <a href={url} class="action-button">Chi tiết</a>
+                        <a href={url} class="action-button">{status_text}</a>
                         <a href={url} class="action-button right">Liên hệ trực tiếp</a>
                     </div>
                 </div>
