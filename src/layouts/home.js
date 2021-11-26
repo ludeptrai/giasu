@@ -27,6 +27,8 @@ export default class Home extends React.Component {
         for (const tag in title) {
             text += '<p class="tag">' + title[tag] + '</p>'
         };
+
+        
         return (
             
         <article key={index} className="">
