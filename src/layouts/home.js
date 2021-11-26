@@ -12,7 +12,7 @@ export default class Home extends React.Component {
     renderPost(post, index, hasMoreLink, moreLinkText) {
         const title = _.get(post, 'title').split("|");
         const thumbImage = _.get(post, 'thumb_img_path');
-        const status = _.get(post, 'status');
+        
         const thumbImageAlt = _.get(post, 'thumb_img_alt', '');
         const postedBy = _.get(post, 'posted_by');
         const url = _.get(post, 'url');
@@ -28,6 +28,7 @@ export default class Home extends React.Component {
         for (const tag in title) {
             text += '<p class="tag">' + title[tag] + '</p>'
         };
+        const status = _.get(post, 'status');
         if (status == 'True') {
             var status_text = 'CHƯA GIAO';
             var status_color = '#82BF56';
