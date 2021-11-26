@@ -26,7 +26,7 @@ export default class Home extends React.Component {
         return (
             
         <article key={index} className="">
-           <div class="card">{date}
+           <div class="card">
             <div class="card-header no-border">
                 <h5 class="card-title">{title}</h5>
             </div>
