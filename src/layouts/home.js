@@ -31,7 +31,7 @@ export default class Home extends React.Component {
             status_text = 'CHƯA GIAO';
             status_color = '#82BF56';
         } else {
-            status_text = 'Đã giao';
+            status_text = 'ĐÃ GIAO';
             status_color = '#82BF56';
         }
 
