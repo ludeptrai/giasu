@@ -7,8 +7,7 @@ status: 'True'
 seo:
   title: Tìm gia sư dạy kèm tại Bình Định
   description: >-
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+    
   extra:
     - name: 'og:type'
       value: article
