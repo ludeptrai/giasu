@@ -26,7 +26,9 @@
     text-decoration: none;	
     background-color: #3498DB;
 	border-bottom: 5px solid #2980B9;
-	text-shadow: 0px -2px #2980B9;
+    text-shadow: 0px -2px #2980B9;
+    display: inline-block;
+    text-align: center !important;
 }
 .card-body {
     margin: 10px;
