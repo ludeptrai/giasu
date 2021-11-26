@@ -48,7 +48,8 @@ layout: post
 
 🔹Môn dạy: Tiếng Trung giao tiếp cho 2 người lớ
 
-🔹Khu vực: Nguyễn Thị Định, Quy Nhơn\
+🔹Khu vực: Nguyễn Thị Định, Quy Nhơn
+
 🔹Số buổi/Tuần: 2-3\
 🔹Lịch học: thoả thuận\
 🔹Học phí:  thoả thuận\
