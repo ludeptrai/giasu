@@ -10,7 +10,7 @@ import { htmlToReact, markdownify } from '../utils';
 
 export default class Home extends React.Component {
     renderPost(post, index, hasMoreLink, moreLinkText) {
-        const title = _.get(post, 'title').split(" ");
+        const title = _.get(post, 'title').split("|");
         const thumbImage = _.get(post, 'thumb_img_path');
         const thumbImageAlt = _.get(post, 'thumb_img_alt', '');
         const postedBy = _.get(post, 'posted_by');
