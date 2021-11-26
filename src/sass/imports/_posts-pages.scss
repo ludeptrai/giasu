@@ -16,7 +16,14 @@
 	// text-shadow: 0px -2px #D1B358;
 }
 .action-button{
-    
+    position: relative;
+	padding: 2px 10px;
+    margin: 0px 10px 10px 0px;
+    float: left;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	color: #FFF;
+    text-decoration: none;	
 }
 .card-body {
     margin: 10px;
