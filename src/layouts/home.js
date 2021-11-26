@@ -40,7 +40,7 @@ export default class Home extends React.Component {
         return (
             
         <article key={index} className="">
-           <div class="card">
+           <div class="card">test new commit
             {/* <div class="card-header no-border">
             </div> */}
             <div class="card-body pt-0">
