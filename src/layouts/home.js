@@ -23,6 +23,7 @@ export default class Home extends React.Component {
         const dayInMonth = moment(date).strftime('%d');        
         const month = moment(date).strftime('%m');
         const postUrl = getPageUrl(post, { withPrefix: true });
+        const text
         for (const tag in title) {
             text += cars[0] + "<br>"
         }
