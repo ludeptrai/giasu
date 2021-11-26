@@ -17,8 +17,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
