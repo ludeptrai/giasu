@@ -29,10 +29,10 @@ export default class Home extends React.Component {
         };
         if (status = 'True') {
             const status_text = 'CHƯA GIAO';
-            status_color = '#82BF56';
+            const status_color = '#82BF56';
         } else {
-            status_text = 'ĐÃ GIAO';
-            status_color = '#E74C3C';
+            const status_text = 'ĐÃ GIAO';
+            const status_color = '#E74C3C';
         }
 
         return (
