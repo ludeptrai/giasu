@@ -56,7 +56,10 @@ layout: post
 
 🔹Học phí:  thoả thuận
 
-Yêu cầu: Gia sư đã tốt nghiệp đại học sư phạm hoặc sv năm cuối, sinh viên đúng chuyên ngành , có kinh nghiệm, nhiệt tình, tâm lý....\
-Phí 25% trả sau 2 buổi dạy\
-Inbox đầy đủ thông tin cá nhân trực tiếp vào page. Phù hợp tt sẽ liên hệ\
+Yêu cầu: Gia sư đã tốt nghiệp đại học sư phạm hoặc sv năm cuối, sinh viên đúng chuyên ngành , có kinh nghiệm, nhiệt tình, tâm lý....
+
+Phí 25% trả sau 2 buổi dạy
+
+Inbox đầy đủ thông tin cá nhân trực tiếp vào page. Phù hợp tt sẽ liên hệ
+
 *Chú ý: Đọc kỹ thông tin và yêu cầu lớp dạy để tránh trường hợp nhận rồi hủy. Gia sư nhớ check địa chỉ trước khi nhận tránh bỏ cua vì xa gần
