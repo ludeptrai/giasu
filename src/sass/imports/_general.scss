@@ -467,6 +467,7 @@ img {
 //   margin-top: 50px;
   display: grid;
   align-content: center;
+  top: 50%;
   grid-template-areas:
     "photo info location price"
     "expertise expertise expertise price";
