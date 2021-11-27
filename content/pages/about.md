@@ -1,6 +1,6 @@
 ---
 title: Danh sách các trung tâm gia sư tại Quy Nhơn
-subtitle: Trung tâm chưa có dữ liệu hoặc muốn cập nhật vui lòng liên hệ mình qua form liên lạc bên trái
+subtitle: Trung tâm chưa có dữ liệu hoặc muốn cập nhật vui lòng liên hệ mình qua form liên lạc bên trái.
 img_path: images/about.jpg
 seo:
   title: About Me
