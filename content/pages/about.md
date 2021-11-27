@@ -35,15 +35,15 @@ layout: page
 <img src="https://i.ibb.co/ZKWrYbr/therapist-photo.png" alt="therapist-photo" class="photo">
   <div class="info">
   <h3 class="therapist-name">Jessica Le Fleur</h3>
-  <div class="title">Licensed Nutritionist</div>
-    <div class="languages">English, French</div>
-        <div class="divider"></div>
+    <div class="title">Licensed Nutritionist</div>
+        <div class="languages">English, French</div>
+            <div class="divider"></div>
+        </div>
+    
+    <div class="price-contact-wrapper">
+        <div class="price">USD 80 / hour</div>
+        <button class="cta">Visit website</button>
     </div>
-  
-  <div class="price-contact-wrapper">
-    <div class="price">USD 80 / hour</div>
-    <button class="cta">Visit website</button>
-  </div>
 
   
 <div class="card-box">
