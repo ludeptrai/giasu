@@ -123,7 +123,6 @@ layout: page
     <div class="languages">Điện thoại: 093 533 55 48</div>
     <div class="divider"></div>
     </div>
-
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/ttgsquynhon" target="_blank">Visit website</a>
     </div></div>
@@ -134,8 +133,7 @@ layout: page
     <div class="title">Theo dõi: 2358</div>
     <div class="languages">Điện thoại: 034 466 1394</div>
     <div class="divider"></div>
-    </div>
-
+</div>
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/GiaSuChat" target="_blank">Visit website</a>
     </div></div>
@@ -147,7 +145,6 @@ layout: page
     <div class="languages">Điện thoại: 037 421 3072</div>
     <div class="divider"></div>
     </div>
-
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/GiasuBinhDinhquality" target="_blank">Visit website</a>
     </div></div>
