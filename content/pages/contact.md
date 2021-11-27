@@ -39,7 +39,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Get in Touch
+      value: Đăng ký nhận tin
       keyName: property
     - name: 'og:description'
       value: Đăng ký nhận tin tức tuyển gia sư mới nhất
@@ -51,7 +51,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Get in Touch
+      value: Đăng ký nhận tin
     - name: 'twitter:description'
       value: This is the contact page
     - name: 'twitter:image'
@@ -59,6 +59,7 @@ seo:
       relativeUrl: true
 layout: contact
 ---
-
+Quý phụ huynh học sinh cần đưa tin có thể liên hệ trực tiếp số điện thoại: 0362907394
 Đăng ký nhận tin mới nhất qua email tại đây.
 Gửi tin nhắn cho mình tại đây.
+

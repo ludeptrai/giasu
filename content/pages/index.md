@@ -30,3 +30,4 @@ seo:
       relativeUrl: true
 layout: home
 ---
+Quý phụ huynh học sinh cần đưa tin có thể liên hệ trực tiếp số điện thoại: 0362907394
