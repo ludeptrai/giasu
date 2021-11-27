@@ -170,7 +170,6 @@ layout: page
     <div class="languages">Điện thoại: 0385 713 251</div>
     <div class="divider"></div>
     </div>
-
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/100030007273333" target="_blank">Visit website</a>
     </div></div>
