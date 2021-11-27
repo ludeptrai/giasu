@@ -4,7 +4,7 @@ subtitle: Trung tâm chưa có dữ liệu hoặc muốn cập nhật vui lòng 
 img_path: images/about.jpg
 seo:
   title: Danh sách các trung tâm gia sư tại Quy Nhơn
-  description: A page about me and my work
+  description: Danh sách các trung tâm gia sư tại Quy Nhơn
   extra:
     - name: 'og:type'
       value: website
