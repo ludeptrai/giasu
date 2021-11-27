@@ -13,7 +13,7 @@ seo:
       value: Danh sách các trung tâm gia sư tại Quy Nhơn
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: Danh sách các trung tâm gia sư tại Quy Nhơn
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
