@@ -63,7 +63,6 @@ layout: page
     <div class="languages">Điện thoại: </div>
     <div class="divider"></div>
     </div>
-
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/Trung-t%C3%A2m-Gia-s%C6%B0-LASO-105575028625607" target="_blank">Visit website</a>
     </div></div>
@@ -75,7 +74,6 @@ layout: page
     <div class="languages">Điện thoại: </div>
     <div class="divider"></div>
     </div>
-
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/Gia-s%C6%B0-Th%C3%A0nh-Th%C3%A1i-110965581367903" target="_blank">Visit website</a>
     </div></div>
@@ -87,7 +85,6 @@ layout: page
     <div class="languages">Điện thoại: 096 604 69 81</div>
     <div class="divider"></div>
     </div>
-
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/trungtamgiasuquynhon" target="_blank">Visit website</a>
     </div></div>
