@@ -1,5 +1,5 @@
 ---
-title: Danh sách trung tâm gia sư tại Quy Nhơn
+title: Danh sách các trung tâm gia sư tại Quy Nhơn
 subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 seo:
