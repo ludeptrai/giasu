@@ -471,7 +471,7 @@ img {
   grid-template-areas:
     "photo info location price"
     "expertise expertise expertise price";
-  grid-template-columns: 25% 5fr 10px 30px;
+  grid-template-columns: 25% 5fr 10px 50px;
   transition: all 0.2s ease-out;
   
   &:hover {
