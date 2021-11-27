@@ -4,8 +4,7 @@ has_more_link: false
 seo:
   title: Tin tìm gia sư tại Quy Nhơn mới nhất
   description: >-
-    Tổng hợp tất cả các tin tìm gia sư mới nhất tại Quy Nhơn cho gia sư và phụ
-    huynh học sinh
+    Tổng hợp tất cả các tin tìm gia sư mới nhất tại Quy Nhơn cho gia sư và phụ huynh học sinh
   extra:
     - name: 'og:type'
       value: website
@@ -14,8 +13,7 @@ seo:
       value: Tin tìm gia sư tại Quy Nhơn mới nhất
       keyName: property
     - name: 'og:description'
-      value: Tổng hợp tất cả các tin tìm gia sư mới nhất tại Quy Nhơn cho gia sư và phụ
-    huynh học sinh
+      value: Tổng hợp tất cả các tin tìm gia sư mới nhất tại Quy Nhơn cho gia sư và phụ huynh học sinh
       keyName: property
     - name: 'og:image'
       value: images/post-banner.jpg
@@ -26,8 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Tin tìm gia sư tại Quy Nhơn mới nhất
     - name: 'twitter:description'
-      value: Tổng hợp tất cả các tin tìm gia sư mới nhất tại Quy Nhơn cho gia sư và phụ
-    huynh học sinh
+      value: Tổng hợp tất cả các tin tìm gia sư mới nhất tại Quy Nhơn cho gia sư và phụ huynh học sinh
     - name: 'twitter:image'
       value: images/post-banner.jpg
       relativeUrl: true
