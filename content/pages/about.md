@@ -39,7 +39,6 @@ layout: page
         <div class="languages">English, French</div>
             <div class="divider"></div>
         </div>
-    
     <div class="price-contact-wrapper">
         <div class="price">USD 80 / hour</div>
         <button class="cta">Visit website</button>
