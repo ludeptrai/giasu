@@ -16,17 +16,17 @@
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Danh sách trung tâm tại QN",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Về trang này",
                 "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Liên lạc & Đăng ký nhận tin",
                 "url": "/contact",
                 "style": "link"
             }
@@ -34,36 +34,22 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://blogcualuu.cf/",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/l%C6%B0u-phan/",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
             },
             {
                 "label": "DEV",
-                "url": "https://dev.to/",
+                "url": "http://xn--thgin-dra64l.vn/",
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
