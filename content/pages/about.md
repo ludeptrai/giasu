@@ -154,7 +154,7 @@ layout: page
 <div class="card-box">
     <img src="images/100030007273333" alt="therapist-photo" class="photo">
     <div class="info">
-    <h3 class="therapist-name"><a style="" href="https://facebook.com/100030007273333" target="_blank">GIA SƯ QUY NHƠN</a></h3>
+    <h3 class="therapist-name"><a style="under" href="https://facebook.com/100030007273333" target="_blank">GIA SƯ QUY NHƠN</a></h3>
     <div class="title">Theo dõi: 4300</div>
     <div class="languages">Điện thoại: 0385 713 251</div>
     <div class="divider"></div>
