@@ -1,6 +1,6 @@
 ---
 title: Danh sách các trung tâm gia sư tại Quy Nhơn
-subtitle: trung tâm chưa 
+subtitle: trung tâm chư
 img_path: images/about.jpg
 seo:
   title: About Me
