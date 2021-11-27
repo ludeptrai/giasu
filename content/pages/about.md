@@ -99,7 +99,6 @@ layout: page
     <div class="languages">Điện thoại: 096 294 85 52</div>
     <div class="divider"></div>
     </div>
-
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/GIA-S%C6%AF-QUY-NH%C6%A0N-1631135610518137" target="_blank">Visit website</a>
     </div></div>
@@ -111,7 +110,6 @@ layout: page
     <div class="languages">Điện thoại: </div>
     <div class="divider"></div>
     </div>
-
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/giasuhyvongquynhon" target="_blank">Visit website</a>
     </div></div>
