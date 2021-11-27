@@ -181,7 +181,6 @@ layout: page
     <div class="languages">Điện thoại: </div>
     <div class="divider"></div>
     </div>
-
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/100075232000935" target="_blank">Visit website</a>
     </div></div>
