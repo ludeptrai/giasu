@@ -44,7 +44,7 @@ layout: page
         <div class="price">USD 80 / hour</div>
         <button class="cta">Visit website</button>
     </div>
-
+</div>
   
 <div class="card-box">
 <img src="https://i.ibb.co/ZKWrYbr/therapist-photo.png" alt="therapist-photo" class="photo">
