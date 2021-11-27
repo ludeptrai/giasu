@@ -39,12 +39,6 @@ layout: page
   <div class="languages">English, French</div>
      <div class="divider"></div>
   </div>
- 
-  <div class="expertise">
-    <div class="expertise-area">Weightloss</div>
-    <div class="expertise-area">Longevity</div>
-    <div class="expertise-area">Plant based</div>
-  </div>
   
   <div class="price-contact-wrapper">
     <div class="price">USD 80 / hour</div>
