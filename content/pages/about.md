@@ -159,7 +159,6 @@ layout: page
     <div class="languages">Điện thoại: </div>
     <div class="divider"></div>
     </div>
-
     <div class="price-contact-wrapper">
     <a class="cta" href="https://facebook.com/giasu.quynhon.3" target="_blank">Visit website</a>
     </div></div>
