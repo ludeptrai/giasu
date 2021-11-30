@@ -39,7 +39,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/giasumattroiquynhon" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/giasumattroiquynhon" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/Trung-t%C3%A2m-Gia-s%C6%B0-T%C3%82Y-S%C6%A0N-107565871755372.jpg" alt="therapist-photo" class="photo">
@@ -50,7 +50,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/Trung-t%C3%A2m-Gia-s%C6%B0-T%C3%82Y-S%C6%A0N-107565871755372" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/Trung-t%C3%A2m-Gia-s%C6%B0-T%C3%82Y-S%C6%A0N-107565871755372" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/Trung-t%C3%A2m-Gia-s%C6%B0-LASO-105575028625607.jpg" alt="therapist-photo" class="photo">
@@ -61,7 +61,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/Trung-t%C3%A2m-Gia-s%C6%B0-LASO-105575028625607" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/Trung-t%C3%A2m-Gia-s%C6%B0-LASO-105575028625607" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/Gia-s%C6%B0-Th%C3%A0nh-Th%C3%A1i-110965581367903.jpg" alt="therapist-photo" class="photo">
@@ -72,7 +72,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/Gia-s%C6%B0-Th%C3%A0nh-Th%C3%A1i-110965581367903" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/Gia-s%C6%B0-Th%C3%A0nh-Th%C3%A1i-110965581367903" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/trungtamgiasuquynhon.jpg" alt="therapist-photo" class="photo">
@@ -83,7 +83,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/trungtamgiasuquynhon" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/trungtamgiasuquynhon" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/GIA-S%C6%AF-QUY-NH%C6%A0N-1631135610518137.jpg" alt="therapist-photo" class="photo">
@@ -94,7 +94,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/GIA-S%C6%AF-QUY-NH%C6%A0N-1631135610518137" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/GIA-S%C6%AF-QUY-NH%C6%A0N-1631135610518137" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/giasuhyvongquynhon.jpg" alt="therapist-photo" class="photo">
@@ -105,7 +105,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/giasuhyvongquynhon" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/giasuhyvongquynhon" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/ttgsquynhon.jpg" alt="therapist-photo" class="photo">
@@ -116,7 +116,18 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/ttgsquynhon" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/ttgsquynhon" target="_blank">Đi đến trang</a>
+    </div></div>
+<div class="card-box">
+    <img src="/images/giasugioiquynhon0917623365.jpg" alt="therapist-photo" class="photo">
+    <div class="info">
+    <h3 class="therapist-name"><a style="border-bottom : none;" class="cta" href="https://facebook.com/giasugioiquynhon0917623365" target="_blank">Trung tâm Gia sư Giỏi Quy Nhơn</a></h3>
+    <div class="title">Theo dõi: 1770</div>
+    <div class="languages">Điện thoại: 091 762 33 65</div>
+    <div class="divider"></div>
+    </div>
+    <div class="price-contact-wrapper">
+    <a class="cta visit-website" href="https://facebook.com/giasugioiquynhon0917623365" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/GiaSuChat.jpg" alt="therapist-photo" class="photo">
@@ -127,7 +138,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/GiaSuChat" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/GiaSuChat" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/GiasuBinhDinhquality.jpg" alt="therapist-photo" class="photo">
@@ -138,7 +149,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/GiasuBinhDinhquality" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/GiasuBinhDinhquality" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/giasu.quynhon.3.jpg" alt="therapist-photo" class="photo">
@@ -149,7 +160,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/giasu.quynhon.3" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/giasu.quynhon.3" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/100030007273333.jpg" alt="therapist-photo" class="photo">
@@ -160,7 +171,7 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/100030007273333" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/100030007273333" target="_blank">Đi đến trang</a>
     </div></div>
 <div class="card-box">
     <img src="/images/100075232000935.jpg" alt="therapist-photo" class="photo">
@@ -171,5 +182,5 @@ layout: page
     <div class="divider"></div>
     </div>
     <div class="price-contact-wrapper">
-    <a class="cta visit-website" href="https://facebook.com/100075232000935" target="_blank">Visit website</a>
+    <a class="cta visit-website" href="https://facebook.com/100075232000935" target="_blank">Đi đến trang</a>
     </div></div>
